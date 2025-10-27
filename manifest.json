@@ -1,6 +1,10 @@
 {
-    "name": "Calrify.AI",
-    "description": "Hover over any word or phrase to instantly understand it — powered by Chrome’s on-device AI.",
+    "name": "Shoki.ai",
     "version": "1.0",
-    "manifest_version": 3
-}
+    "manifest_version": 3,
+    "description": "Shoki.ai the extension that helps keep track of your meetings",
+    "action": {
+      "default_popup": "shoki.html"
+    }
+  }
+  
